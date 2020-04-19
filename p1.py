@@ -1,4 +1,5 @@
 print("mon premier pogramme")
-a=input("donner la valeur de a=")
-b=input("donner la valeur de b =")
+a=int(input("donner la valeur de a="))
+b=int(input("donner la valeur de b ="))
 print(f"soomme de {a} + {b}={a+b}")
+
